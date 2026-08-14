@@ -13,7 +13,7 @@
 ![Product Operations](https://img.shields.io/badge/Product%20Operations-C49A3A?style=for-the-badge&logoColor=white)
 ![System Training](https://img.shields.io/badge/System%20Implementation%20%26%20Training-E79073?style=for-the-badge&logoColor=white)
 
-📍 Taichung, Taiwan　·　📫 [needu33@gmail.com](mailto:needu33@gmail.com)
+📍 Taichung, Taiwan　·　📫 [eunibaby21@gmail.com](mailto:eunibaby21@gmail.com)
 
 </div>
 
