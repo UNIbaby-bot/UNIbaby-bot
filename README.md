@@ -121,7 +121,7 @@ GitHub 文件整理，皆由本人獨立統籌執行。<br>
 
 歡迎透過 Email 與我聯繫。
 
-[![Email](https://img.shields.io/badge/Email-needu33%40gmail.com-E79073?style=for-the-badge&logo=gmail&logoColor=white)](mailto:needu33@gmail.com)
+[![Email](https://img.shields.io/badge/Email-eunibaby21%40gmail.com-E79073?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eunibaby21@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-UNIbaby--bot-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UNIbaby-bot)
 
 </div>
